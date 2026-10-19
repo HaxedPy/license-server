@@ -1,9 +1,4 @@
 {
-  "status": "active",
-  "message": "System operational.",
-  "valid_keys": [
-    "BOULIZ-2026-ULTIMATE",
-    "BOULIZ-VIP-7789",
-    "BOULIZ-TEST-9921"
-  ]
+  "status": "disabled",
+  "message": "Version v4.2 is outdated. Please update to v4.3."
 }
