@@ -1,4 +1,9 @@
 {
-  "status": "disabled",
-  "message": "Version v4.2 is outdated. Please update to v4.3."
+  "status": "active",
+  "message": "Hi from @Bouliizz, Enter the code below!"
+  "valid_keys": [
+    "BOULIZ-2026-ULTIMATE",
+    "BOULIZ-VIP-7789",
+    "BOULIZ-TEST-9921"
+  ]
 }
