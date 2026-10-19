@@ -1,6 +1,6 @@
 {
-  "status": "active",
-  "message": "System operational.",
+  "status": "disabled",
+  "message": "OFFLINE WAIT FOR ADMIN RESPONSE",
   "valid_keys": {
     "FREETRIAL": {"duration": 600},
     "BOULIZLIFE": {"duration": 0}
