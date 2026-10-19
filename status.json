@@ -1,6 +1,6 @@
 {
-  "status": "disabled",
-  "message": "OFFLINE WAIT FOR ADMIN RESPONSE",
+  "status": "active",
+  "message": "ACTIVE !",
   "valid_keys": {
     "FREETRIAL": {"duration": 600},
     "BOULIZLIFE": {"duration": 0}
