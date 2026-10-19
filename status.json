@@ -2,9 +2,7 @@
   "status": "active",
   "message": "System operational.",
   "valid_keys": {
-    "BOULIZ-10M-TEST": {"duration": 600},
-    "BOULIZ-3DAY-KEY": {"duration": 259200},
-    "BOULIZ-1WEEK-KEY": {"duration": 604800},
-    "BOULIZ-LIFETIME-VIP": {"duration": 0}
+    "FREETRIAL": {"duration": 600},
+    "BOULIZLIFE": {"duration": 0}
   }
 }
