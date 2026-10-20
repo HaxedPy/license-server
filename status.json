@@ -3,6 +3,21 @@
   "message": "ACTIVE !",
   "valid_keys": {
     "FREETRIAL": {"duration": 600},
-    "LICENSE-LIFETIME-NBA81S": {"duration": 0}
+    "LICENSE-3DAYS-BANUW-BLZAS": {"duration": 259200, "max_uses": 1},
+    "LICENSE-3DAYS-BVBSA-BDSAJ": {"duration": 259200, "max_uses": 1},
+    "LICENSE-3DAYS-HDSAG-ASDAS": {"duration": 259200, "max_uses": 1},
+    "LICENSE-3DAYS-ADEGF-FSDAS": {"duration": 259200, "max_uses": 1},
+    "LICENSE-3DAYS-QWYTD-GHDFD": {"duration": 259200, "max_uses": 1},
+    "LICENSE-1WEEK-ADWJQ-DKWAA": {"duration": 604800, "max_uses": 1},
+    "LICENSE-1WEEK-DAWIW-LONAS": {"duration": 604800, "max_uses": 1},
+    "LICENSE-1WEEK-VBANS-CXGAW": {"duration": 604800, "max_uses": 1},
+    "LICENSE-1WEEK-MZGQP-BVIIO": {"duration": 604800, "max_uses": 1},
+    "LICENSE-1WEEK-BLZOA-DS2PO": {"duration": 604800, "max_uses": 1},
+    "LICENSE-": {"duration": 2592000, "max_uses": 1},
+    "LICENSE-": {"duration": 2592000, "max_uses": 1},
+    "LICENSE-": {"duration": 2592000, "max_uses": 1},
+    "LICENSE-": {"duration": 2592000, "max_uses": 1},
+    "LICENSE-": {"duration": 2592000, "max_uses": 1},
+    "LICENSE-LIFETIME-NBA81S": {"duration": 0, "max_uses": 1}
   }
 }
