@@ -1,6 +1,6 @@
 {
-  "status": "active",
-  "message": "Active <3",
+  "status": "disabled",
+  "message": "TESTING",
   "valid_keys": {
     "FREETRIAL": {"duration": 600},
     "LICENSE-3DAYS-BANUW-BLZAS": {"duration": 259200, "max_uses": 1},
