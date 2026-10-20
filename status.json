@@ -1,8 +1,8 @@
 {
-  "status": "disabled",
-  "message": "TESTING",
+  "status": "active",
+  "message": "Active <3",
   "valid_keys": {
-    "FREETRIAL": {"duration": 600},
+    "FREETRIAL": {"duration": 1200},
     "LICENSE-3DAYS-BANUW-BLZAS": {"duration": 259200, "max_uses": 1},
     "LICENSE-3DAYS-BVBSA-BDSAJ": {"duration": 259200, "max_uses": 1},
     "LICENSE-3DAYS-HDSAG-ASDAS": {"duration": 259200, "max_uses": 1},
