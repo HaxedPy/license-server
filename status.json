@@ -1,6 +1,6 @@
 {
-  "status": "active",
-  "message": "Active <3",
+  "status": "disabled",
+  "message": "BOULIZ IS WORKING ON IT <3",
   "valid_keys": {
     "FREETRIAL": {"duration": 1200},
     "BOULIZTRIAL": {"duration": 1500},
