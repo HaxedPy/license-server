@@ -11,14 +11,14 @@
     "LICENSE-3DAYS-QWYTD-GHDFD": {"duration": 259200, "max_uses": 1},
     "LICENSE-1WEEK-ADWJQ-DKWAA": {"duration": 604800, "max_uses": 1},
     "LICENSE-1WEEK-DAWIW-LONAS": {"duration": 604800, "max_uses": 1},
-    "LICENSE-1WEEK-VBANS-CXGAW": {"duration": 604800, "max_uses": 1},
-    "LICENSE-1WEEK-MZGQP-BVIIO": {"duration": 604800, "max_uses": 1},
-    "LICENSE-1WEEK-BLZOA-DS2PO": {"duration": 604800, "max_uses": 1},
-    "LICENSE-": {"duration": 2592000, "max_uses": 1},
-    "LICENSE-": {"duration": 2592000, "max_uses": 1},
-    "LICENSE-": {"duration": 2592000, "max_uses": 1},
-    "LICENSE-": {"duration": 2592000, "max_uses": 1},
-    "LICENSE-": {"duration": 2592000, "max_uses": 1},
+    "BOULIZ-1WEEK-VBANS-CXGAW": {"duration": 604800, "max_uses": 1},
+    "BOULIZ-1WEEK-MZGQP-BVIIO": {"duration": 604800, "max_uses": 1},
+    "BOULIZ-1WEEK-BLZOA-DS2PO": {"duration": 604800, "max_uses": 1},
+    "BOULIZ-30DAYS-BSAOQ-DBASW": {"duration": 2592000, "max_uses": 1},
+    "BOULIZ-30DAYS-KOPAQ-HSUQA": {"duration": 2592000, "max_uses": 1},
+    "BOULIZ-30DAYS-MHAIA-KQOAQ": {"duration": 2592000, "max_uses": 1},
+    "BOULIZ-30DAYS-JASQL-BUWOQ": {"duration": 2592000, "max_uses": 1},
+    "BOULIZ-30DAYS-21MWK-KWQ19": {"duration": 2592000, "max_uses": 1},
     "LICENSE-LIFETIME-NBA81S": {"duration": 0, "max_uses": 1}
   }
 }
