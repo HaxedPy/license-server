@@ -1,6 +1,6 @@
 {
-  "status": "active",
-  "message": "Active <3 | ENJOY! ",
+  "status": "disabled",
+  "message": "OUTDATED VERSION! PLEASE CONTACT @BOULIIZZ FOR NEW ONE <3",
   "valid_keys": {
     "BOULIZTRIAL": {"duration": 1500},
     "LICENSE-3DAYS-BANUW-BLZAS": {"duration": 259200, "max_uses": 1},
